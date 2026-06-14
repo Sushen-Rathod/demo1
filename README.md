@@ -1,5 +1,5 @@
 # demo1
 this is first git repository
 
-helium argon
+helium  neon argon
 krypton xenon 
